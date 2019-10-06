@@ -18,26 +18,25 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: TEST
+bio: Christopher C. Odom
 
 interests:
 - Audiovisual Rhetoric
-- Diversity
 - Social Justice
 - Social Media
 - Visual Culture
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. Student, Texts & Technology, Digital Media
+    institution: University of Central Florida
+    year: 2019 - 2023
+  - course: MFA, Film & Television
+    institution: University of California, Los Angeles
+    year: 1998 - 2001
+  - course: BA, Film & Video Production
+    institution: Georgia State University
+    year: 1993 - 1994
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -46,10 +45,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:christopher.odom@knights.ucf.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ChristopherOdom
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
