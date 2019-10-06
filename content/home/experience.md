@@ -20,17 +20,11 @@ date_format = "Jan 2006"
 [[experience]]
   title = "VP, Content Creation"
   company = "EJO Ventures Technology Project Management - Network Systems Integration"
-  company_url = ""
+  company_url = "http://ejoventures.com"
   location = "Nashville, TN"
   date_start = "2018-01-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Oversaw all creative content creation from concept to completion for video development and production, social media marketing, digital marketing, IPTV and branded entertainment. Performed as principal voice over talent for client productions."""
 
 [[experience]]
   title = "Professor"
