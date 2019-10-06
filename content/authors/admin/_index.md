@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Christopher is pursuing his Ph.D. in Texts & Technology, Digital Media at the University of Central Florida with research interests in Social Media Rhetoric for Social Justice. He is a faculty member of the Creative Writing MFA Program at Full Sail University in Winter Park, FL, teaching Screenwriting, Production, and Digital and Social Media Personal Branding. A graduate of the University of California, Los Angeles with an MFA in Film and Television, Christopher is a domestic and international award-winning filmmaker whose work has appeared in major cities worldwide, including Cannes, Berlin, Tel Aviv, New York and Los Angeles.
+bio: TEST
 
 interests:
 - Audiovisual Rhetoric
