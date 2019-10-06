@@ -15,19 +15,19 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "fa-graduation-cap"
-  icon_pack = "fab"
+  icon = "graduation-cap"
+  icon_pack = "fas"
   name = "Research"
   description = "100%"
 
 [[feature]]
-  icon = "fa-chalkboard-teacher"
+  icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Creative Content Strategy"
   description = "100%"  
 
 [[feature]]
-  icon = "fa-video"
+  icon = "video"
   icon_pack = "fas"
   name = "Video Production"
   description = "100%"
