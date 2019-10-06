@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "EJO Ventures Technology Project Management - Network Systems Integration"
   company_url = ""
   location = "California"
-  date_start = "2017-01-01"
+  date_start = "2018-01-01"
   date_end = ""
   description = """
   Responsibilities include:
