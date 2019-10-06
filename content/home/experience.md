@@ -116,6 +116,27 @@ date_format = "Jan 2006"
 
   * Produced the rough cut of 10 feature documentary trailer spots within 7 days for the web and PBS national broadcast by minimizing the amount of time required to review and mark up a documentary to deliver the first cut of multiple trailers with limited time and resources
 
+[[experience]]
+  title = "Web Series Editor"
+  company = "LiveVideo.com"
+  company_url = "http://www.itvs.org/"
+  location = "West Hollywood, CA"
+  date_start = "2006-11-01"
+  date_end = "2007-08-01"
+  description = """Edited raw footage into webisodes from interviews, concerts, paparazzi video, sketch comedies, and scripted content, including projects using Adobe Creative Suite (Adobe CS) Photoshop, Illustrator; Apple Final Cut Pro, Compressor, DVD Studio Pro, Live Type, Motion, Soundtrack Pro; Movie Magic Screenwriter; and SmartSound SonicFire Pro
+  <br><br/>
 
+  * Created webisodes with clear and cohesive storylines, plots, and purposes by reviewing the raw footage and creating storylines to convert footage shot without a script of interviews, paparazzi video, and reality style video into webisodes
 
+[[experience]]
+  title = "Web Series Editor"
+  company = "LiveVideo.com"
+  company_url = "http://www.itvs.org/"
+  location = "West Hollywood, CA"
+  date_start = "2006-11-01"
+  date_end = "2007-08-01"
+  description = """Edited raw footage into webisodes from interviews, concerts, paparazzi video, sketch comedies, and scripted content, including projects using Adobe Creative Suite (Adobe CS) Photoshop, Illustrator; Apple Final Cut Pro, Compressor, DVD Studio Pro, Live Type, Motion, Soundtrack Pro; Movie Magic Screenwriter; and SmartSound SonicFire Pro
+  <br><br/>
+
+  * Created webisodes with clear and cohesive storylines, plots, and purposes by reviewing the raw footage and creating storylines to convert footage shot without a script of interviews, paparazzi video, and reality style video into webisodes
 +++
