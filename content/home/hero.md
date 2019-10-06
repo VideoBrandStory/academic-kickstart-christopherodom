@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Christopher C. Odom"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = ""
+hero_media = "chris-odom-director.JPG"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -24,7 +24,7 @@ hero_media = ""
   gradient_end = ""
 
   # Background image.
-  # image = "chris-odom-director.JPG"  # Name of image in `static/img/`.
+  # image = ""  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
