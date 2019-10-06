@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Digital and Social Media Marketing, Content Strategy and Visual Storytelling Researcher
+role: Ph.D. Student, Texts & Technology, Digital Media
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Central Florida
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Christopher is pursuing his Ph.D. in Texts & Technology, Digital Media at the University of Central Florida with research interests in Social Media Rhetoric for Social Justice. He is a faculty member of the Creative Writing MFA Program at Full Sail University in Winter Park, FL, teaching Screenwriting, Production, and Digital and Social Media Personal Branding. A graduate of the University of California, Los Angeles with an MFA in Film and Television, Christopher is a domestic and international award-winning filmmaker whose work has appeared in major cities worldwide, including Cannes, Berlin, Tel Aviv, New York and Los Angeles.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Social Media
+- Audiovisual Rhetoric
+- Social Justice
 
 education:
   courses:
