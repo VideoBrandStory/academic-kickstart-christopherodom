@@ -41,6 +41,6 @@ hero_media = "chris-odom-director.JPG"
 
 +++
 
-Contact me now for **Presentations, Talks and Panels**
+Contact me for **Presentations, Talks and Panels**
 
 Social Media Rhetoric for **Social Justice**
