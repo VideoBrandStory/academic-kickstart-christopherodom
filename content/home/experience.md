@@ -104,4 +104,18 @@ date_format = "Jan 2006"
 
   * Produced 17 episodes of web series, IPTV, new, original programming for Akimbo within just 2 weeks time by developing an ultra low budget skeleton crew production philosophy and shooting style to produce multiple new, IPTV, web shows in a short period of time"""
 
+[[experience]]
+  title = "On-Air Promotions Producer, Director, Writer, Editor"
+  company = "Independent Television Service (ITVS)"
+  company_url = "http://www.itvs.org/"
+  location = "San Francisco, CA"
+  date_start = "2006-06-01"
+  date_end = "2009-09-01"
+  description = """Produced, wrote, directed voice overs, revised and edited audio and video on-air promotions, creative promo and trailer scripts and spots for the PBS nationally televised original series Independent Lens. Recorded voice over temp tracks for the principal talent to emulate.
+  <br><br/>
+
+  * Produced the rough cut of 10 feature documentary trailer spots within 7 days for the web and PBS national broadcast by minimizing the amount of time required to review and mark up a documentary to deliver the first cut of multiple trailers with limited time and resources
+
+
+
 +++
