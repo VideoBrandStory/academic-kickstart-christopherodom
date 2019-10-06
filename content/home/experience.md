@@ -34,7 +34,19 @@ date_format = "Jan 2006"
   date_start = "2017-08-01"
   date_end = ""
   description = """Produced, wrote, edited, recorded voices overs and hosted a weekly original series for the web about traveling in Japan. Led Google AdWords campaigns, edited episodes, shot footage, interviews and b-roll in the field in Japan or a-roll in the studio in front of green screen with a teleprompter.
+  <br><br/>
 
   * Created an emerging original travel series for the web by taking advantage or an organic situation and utilizing current equipment and video production skills to deliver a quality original web series that gained over 10,000 views within the first 6 weeks launch"""
+
+  [[experience]]
+    title = "Producer, Host, Writer, Editor"
+    company = "Big Trip To Japan"
+    company_url = "http://bigtriptojapan.com"
+    location = "Davenport, FL"
+    date_start = "2017-08-01"
+    date_end = ""
+    description = """Produced, wrote, edited, recorded voices overs and hosted a weekly original series for the web about traveling in Japan. Led Google AdWords campaigns, edited episodes, shot footage, interviews and b-roll in the field in Japan or a-roll in the studio in front of green screen with a teleprompter.
+
+    * Created an emerging original travel series for the web by taking advantage or an organic situation and utilizing current equipment and video production skills to deliver a quality original web series that gained over 10,000 views within the first 6 weeks launch"""
 
 +++
