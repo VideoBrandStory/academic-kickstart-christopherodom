@@ -17,15 +17,15 @@ hero_media = "chris-odom-director.JPG"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = ""
+  # color = "#2d49a7"
 
   # Background gradient.
   gradient_start = ""
   gradient_end = ""
 
   # Background image.
-  # image = "chris-odom-director.JPG"  # Name of image in `static/img/`.
-  # image_darken = 1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  # image = ""  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = false
@@ -41,6 +41,6 @@ hero_media = "chris-odom-director.JPG"
 
 +++
 
-**Contact Me Now for Presentations, Talks & Panels**
+Contact me for **Presentations, Talks & Panels**
 
 Social Media Rhetoric for **Social Justice**
