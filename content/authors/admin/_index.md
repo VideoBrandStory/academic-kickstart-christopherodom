@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Christopher C. Odom
+bio: Christopher is pursuing his Ph.D. in Texts & Technology, Digital Media at the University of Central Florida with research interests in Social Media Rhetoric for Social Justice.
 
 interests:
 - Audiovisual Rhetoric
@@ -46,15 +46,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:christopher.odom@knights.ucf.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: fa-linkedin
   icon_pack: fab
-  link: https://twitter.com/ChristopherOdom
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://linkedin.com/ChristopherOdom
+- icon: fa-twitter
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/christopherodom
+- icon: fa-youtube
+  icon_pack: fab
+  link: https://youtube.com/christopherodom
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -71,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Christopher is pursuing his Ph.D. in Texts & Technology, Digital Media at the University of Central Florida with research interests in Social Media Rhetoric for Social Justice. He is a faculty member of the Creative Writing MFA Program at Full Sail University in Winter Park, FL, teaching Screenwriting, Production, and Digital and Social Media Personal Branding. A graduate of the University of California, Los Angeles with an MFA in Film and Television, Christopher is a domestic and international award-winning filmmaker whose work has appeared in major cities worldwide, including Cannes, Berlin, Tel Aviv, New York and Los Angeles.
