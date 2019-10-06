@@ -49,13 +49,13 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:christopher.odom@knights.ucf.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: fa-linkedin
+- icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/ChristopherOdom
-- icon: fa-twitter
+- icon: twitter
   icon_pack: fab
   link: https://twitter.com/christopherodom
-- icon: fa-youtube
+- icon: youtube
   icon_pack: fab
   link: https://youtube.com/christopherodom
 # Link to a PDF of your resume/CV from the About widget.
