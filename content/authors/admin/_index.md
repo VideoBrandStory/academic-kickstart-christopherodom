@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Digital and Social Media Marketing, Content Strategy and Visual Storytelling Researcher
 
 # Organizations/Affiliations
 organizations:
