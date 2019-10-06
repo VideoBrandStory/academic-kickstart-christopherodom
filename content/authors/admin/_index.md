@@ -52,6 +52,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/christopherodom/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/christopherodom
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/christophercodom
