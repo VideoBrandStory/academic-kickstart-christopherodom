@@ -37,6 +37,9 @@ education:
   - course: BA, Film & Video Production
     institution: Georgia State University
     year: 1993 - 1994
+  - course: Some College Courses Taken
+    institution: Morehouse College
+    year: 1988 - 1991
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
