@@ -174,5 +174,15 @@ date_format = "Jan 2006"
   <br><br/>
   * Excelled as a high-demand contractor with numerous repeat requests from clients by quickly learning the standard operating procedures of each client, as well as all the names and roles of numerous departments’ key players to function as a full-time regular employee, while operating under a temporary contract"""
 
+[[experience]]
+  title = "Senior Clerk"
+  company = "The Walt Disney Company, Network TV Production"
+  company_url = "https://www.thewaltdisneycompany.com/"
+  location = "Burbank, CA"
+  date_start = "1996-12-01"
+  date_end = "1997-09-01"
+  description = """Provided administrative support in the role of a Staff Coordinator to the division Executive Vice-President and acted as the liaison for the Movies-of-the-Week production coordinators and the Network Television Department
+  <br><br/>
+  * Enhanced the department’s ability to function effectively without delays by assuming the responsibilities of a staff coordinator, while still fulfilling my responsibilities as a production assistant to resolve a department staff shortage"""
 
 +++
