@@ -152,4 +152,27 @@ date_format = "Jan 2006"
   <br><br/>
   * Bolstered the company’s ability to be successfully paid to develop and write movie-of-the-week and feature film screenplays by performing extensive library and web research to compile information on historical subjects"""
 
+[[experience]]
+  title = "Program Coordinator, Tell It Theater"
+  company = "Watts Labor Community Action Committee (WLCAC)"
+  company_url = "http://www.wlcac.org/"
+  location = "Los Angeles, CA"
+  date_start = "2001-01-01"
+  date_end = "2001-09-01"
+  description = """Functioned in the role of a Program Director to structure and implement an after-school Dramatic Arts Program
+  <br><br/>
+  * Established a profound life-changing experience with high participation from the students their families by functioning as the program director, overseeing the implementation of the curriculum, supervising the instructors, and liaising with the school principals to provide quality alternative arts education for disadvantaged inner city youths"""
+
+[[experience]]
+  title = "Various Entertainment Contract Positions"
+  company = "Aquent"
+  company_url = "http://aquent.com/"
+  location = "Los Angeles, CA"
+  date_start = "1997-11-01"
+  date_end = "2000-12-01"
+  description = """Freelanced in accounting, consumer products, development, home video, human resources, information technology, marketing, new media, production, and public relations. Worked in a variety of industries with clients ranging from Twentieth Century Fox, Lieberman Research Worldwide, Capital Group, TBWA/Chiat/Day, and McGraw-Hill
+  <br><br/>
+  * Excelled as a high-demand contractor with numerous repeat requests from clients by quickly learning the standard operating procedures of each client, as well as all the names and roles of numerous departments’ key players to function as a full-time regular employee, while operating under a temporary contract"""
+
+
 +++
