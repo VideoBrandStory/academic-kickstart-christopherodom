@@ -114,7 +114,7 @@ date_format = "Jan 2006"
   description = """Produced, wrote, directed voice overs, revised and edited audio and video on-air promotions, creative promo and trailer scripts and spots for the PBS nationally televised original series Independent Lens. Recorded voice over temp tracks for the principal talent to emulate.
   <br><br/>
 
-  * Produced the rough cut of 10 feature documentary trailer spots within 7 days for the web and PBS national broadcast by minimizing the amount of time required to review and mark up a documentary to deliver the first cut of multiple trailers with limited time and resources
+  * Produced the rough cut of 10 feature documentary trailer spots within 7 days for the web and PBS national broadcast by minimizing the amount of time required to review and mark up a documentary to deliver the first cut of multiple trailers with limited time and resources"""
 
 [[experience]]
   title = "Web Series Editor"
@@ -126,17 +126,14 @@ date_format = "Jan 2006"
   description = """Edited raw footage into webisodes from interviews, concerts, paparazzi video, sketch comedies, and scripted content, including projects using Adobe Creative Suite (Adobe CS) Photoshop, Illustrator; Apple Final Cut Pro, Compressor, DVD Studio Pro, Live Type, Motion, Soundtrack Pro; Movie Magic Screenwriter; and SmartSound SonicFire Pro
   <br><br/>
 
-  * Created webisodes with clear and cohesive storylines, plots, and purposes by reviewing the raw footage and creating storylines to convert footage shot without a script of interviews, paparazzi video, and reality style video into webisodes
+  * Created webisodes with clear and cohesive storylines, plots, and purposes by reviewing the raw footage and creating storylines to convert footage shot without a script of interviews, paparazzi video, and reality style video into webisodes"""
 
 [[experience]]
-  title = "Web Series Editor"
-  company = "LiveVideo.com"
-  company_url = "http://www.itvs.org/"
-  location = "West Hollywood, CA"
-  date_start = "2006-11-01"
-  date_end = "2007-08-01"
-  description = """Edited raw footage into webisodes from interviews, concerts, paparazzi video, sketch comedies, and scripted content, including projects using Adobe Creative Suite (Adobe CS) Photoshop, Illustrator; Apple Final Cut Pro, Compressor, DVD Studio Pro, Live Type, Motion, Soundtrack Pro; Movie Magic Screenwriter; and SmartSound SonicFire Pro
-  <br><br/>
-
-  * Created webisodes with clear and cohesive storylines, plots, and purposes by reviewing the raw footage and creating storylines to convert footage shot without a script of interviews, paparazzi video, and reality style video into webisodes
+  title = "Feature Film Story Analyst"
+  company = "Creative Artists Agency (CAA)"
+  company_url = "http://www.caa.com/"
+  location = "Los Angeles, CA"
+  date_start = "2006-03-01"
+  date_end = "2006-10-01"
+  description = """Wrote coverage reports for big-budget feature film scripts, independent of studio financing, assessing their quality and marketability for a commercial audience using Microsoft Office, Word"""
 +++
