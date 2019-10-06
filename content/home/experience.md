@@ -53,7 +53,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Course Director"
   company = "Full Sail University"
-  company_url = "http://aero-news.net/"
+  company_url = "http://www.fullsail.edu/degrees/online/creative-writing-mfa"
   location = "Winter Park, FL"
   date_start = "2011-10-06"
   date_end = ""
@@ -62,8 +62,46 @@ date_format = "Jan 2006"
 
   * Increased the average final quality of student work in the course 15% by implementing new lessons, producing video instructions and conducting live Citrix GoTo Training Workshops to enhance the student experience
 
-  * Improved student clarity and fulfillment of academic expectations by incorporating video instructions, a tutorial to download deadlines into Apple MAC iCal, deadline reminders via text messaging, and weekly checklists to facilitate students ability to exceed expectations"""
+  * Improved student clarity and fulfillment of academic expectations by incorporating video instructions, a tutorial to download deadlines into Apple MAC iCal, deadline reminders via text messaging, and weekly checklists to facilitate students ability to exceed expectations
 
   * Honored with multiple Full Sail University PROPS awards from students for exceptional performance as a Course Director"""
+
+[[experience]]
+  title = "Live Event Camera Operator"
+  company = "Universal Event Photography (UEP)"
+  company_url = "http://www.universaleventphoto.com/"
+  location = "Winter Park, FL"
+  date_start = "2014-03-01"
+  date_end = "2018-06-01"
+  description = """Operated the HD video camera while simultaneously live streaming and recording regional dance competition events for the nation’s largest organizers of talent competitions (_Starpower, Nexstar, Revolution_)
+  <br><br/>
+
+  * Streamlined the recording process on Universal Event Photography (UEP) live event shoots, which helped UEP, generate greater profits by recording directly to the external drive, which ensured that all recorded videos could be sold
+
+  * Troubleshooted content delivery by reinstalling Ustream, Blackmagic Design, and Hauppauge EZ Stream live streaming software, repairing PC Microsoft Windows operating systems, and troubleshooting Blackmagic H.264 external capture devices & Mackie audio mixers, on-the-fly during live shoots to overcome problems occurring during live streaming shoots"""
+
+[[experience]]
+  title = "Feature Film Producer, Director, Writer"
+  company = "Odom-Booker Entertainment"
+  company_url = "http://www.odom-booker.com/"
+  location = "Orlando, FL"
+  date_start = "2004-06-01"
+  date_end = "2011-09-01"
+  description = """Produced, directed, shot, wrote and edited narrative feature films, documentaries, commercials, music videos, promos, trailers and corporate video. Produced and web-ready and live-streaming event videos for conferences, workshops, seminars and classes. Recorded voices overs for trailers, promos and commercials.
+  <br><br/>
+
+  * Produced an award-winning direct to DVD feature film, securing a worldwide distribution deal with Canada’s largest movie distributor, Entertainment One (E1), by hiring name talent for only one day, utilizing students and interns for low pay, and functioning personally in multiple crew positions to deliver the film after the budget was reduced by 75%
+
+  * Produced a direct to DVD, feature film with worldwide distribution by offering actors and crew deferments, relying upon personal relationships to secure $20K in waived location fees, and functioning personally in multiple crew positions to overcome a lack of full financing
+
+  * Co-produced and shot an award-winning feature film for One Way or Another Productions by managing the production process to overcome the limitations of a skeleton crew
+
+  * Collaborated as a director and cinematographer on feature films for Warning Films that found successful, profitable, worldwide distribution through Maverick Entertainment by shooting and directing scenes, creating on-the-fly dialogue, and acting on-camera when necessary to complete scenes without scripts or enough talent on set
+
+  * Produced projects 4 times faster than previously capable for Technology Marketing Toolkit which were utilized to retain the company’s existing client base by upgrading to a faster MAC and a Thunderbolt external drive system to edit and compress several hours of footage for web streaming in only 25% of the rendering time previously required
+
+  * Produced marketing videos for BetaRecords.com that helped the company increase user counts and secure a major overseas contract by analyzing raw footage and editing it into distinct online promo videos to turn generic footage into stylized promos
+
+  * Produced 17 episodes of web series, IPTV, new, original programming for Akimbo within just 2 weeks time by developing an ultra low budget skeleton crew production philosophy and shooting style to produce multiple new, IPTV, web shows in a short period of time"""
 
 +++
