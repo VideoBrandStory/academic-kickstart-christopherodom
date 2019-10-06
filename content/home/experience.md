@@ -42,12 +42,28 @@ date_format = "Jan 2006"
   title = "Producer, Host, Editor"
   company = "Aero-News Network"
   company_url = "http://aero-news.net/"
-  location = "Davenport, FL"
+  location = "Jacksonville, FL"
   date_start = "2016-08-01"
   date_end = "2017-10-01"
   description = """Produced, anchored, recorded voice overs and edited Airborne Unlimited, a daily, online, weekday aviation news broadcast. Edited episodes. Shot footage, interviews and b-roll in the field at airshows and national aviation events, exhibitions and conventions. Shot live streaming on-location shows.
   <br><br/>
 
-  * C•	Anchored and edited daily newscast episodes with brief time and training by relying upon and expanding preexisting skillsets to deliver a quality newscast with seamless transition from its predecessors"""
+  * Anchored and edited daily newscast episodes with brief time and training by relying upon and expanding preexisting skillsets to deliver a quality newscast with seamless transition from its predecessors"""
+
+[[experience]]
+  title = "Course Director"
+  company = "Full Sail University"
+  company_url = "http://aero-news.net/"
+  location = "Winter Park, FL"
+  date_start = "2011-10-06"
+  date_end = ""
+  description = """Taught screenwriting and film production. Created video lectures for film, television, animation, comics, and games to graduate level students. Conducted live online trainings and recorded voice overs.
+  <br><br/>
+
+  * Increased the average final quality of student work in the course 15% by implementing new lessons, producing video instructions and conducting live Citrix GoTo Training Workshops to enhance the student experience
+
+  * Improved student clarity and fulfillment of academic expectations by incorporating video instructions, a tutorial to download deadlines into Apple MAC iCal, deadline reminders via text messaging, and weekly checklists to facilitate students ability to exceed expectations"""
+
+  * Honored with multiple Full Sail University PROPS awards from students for exceptional performance as a Course Director"""
 
 +++
