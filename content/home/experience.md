@@ -38,15 +38,16 @@ date_format = "Jan 2006"
 
   * Created an emerging original travel series for the web by taking advantage or an organic situation and utilizing current equipment and video production skills to deliver a quality original web series that gained over 10,000 views within the first 6 weeks launch"""
 
-  [[experience]]
-    title = "Producer, Host, Writer, Editor"
-    company = "Big Trip To Japan"
-    company_url = "http://bigtriptojapan.com"
-    location = "Davenport, FL"
-    date_start = "2017-08-01"
-    date_end = ""
-    description = """Produced, wrote, edited, recorded voices overs and hosted a weekly original series for the web about traveling in Japan. Led Google AdWords campaigns, edited episodes, shot footage, interviews and b-roll in the field in Japan or a-roll in the studio in front of green screen with a teleprompter.
+[[experience]]
+  title = "Producer, Host, Editor"
+  company = "Aero-News Network"
+  company_url = "http://aero-news.net/"
+  location = "Davenport, FL"
+  date_start = "2016-08-01"
+  date_end = "2017-10-01"
+  description = """Produced, anchored, recorded voice overs and edited Airborne Unlimited, a daily, online, weekday aviation news broadcast. Edited episodes. Shot footage, interviews and b-roll in the field at airshows and national aviation events, exhibitions and conventions. Shot live streaming on-location shows.
+  <br><br/>
 
-    * Created an emerging original travel series for the web by taking advantage or an organic situation and utilizing current equipment and video production skills to deliver a quality original web series that gained over 10,000 views within the first 6 weeks launch"""
+  * C•	Anchored and edited daily newscast episodes with brief time and training by relying upon and expanding preexisting skillsets to deliver a quality newscast with seamless transition from its predecessors"""
 
 +++
