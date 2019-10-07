@@ -64,7 +64,7 @@ social:
   link: https://youtube.com/christopherodom
 - icon: cv
   icon_pack: ai
-  link: https://www.dropbox.com/s/5rm4cseekxfxf1j/CHRISTOPHER%20C.%20ODOM%20-%20Academic%20CV.pdf?dl=0
+  link: files/cv.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv

@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Curriculum Vitae"
-  url = "https://www.dropbox.com/s/5rm4cseekxfxf1j/CHRISTOPHER%20C.%20ODOM%20-%20Academic%20CV.pdf?dl=0"
+  link = files/cv.pdf
   weight = 30
 
 [[main]]
