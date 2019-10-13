@@ -23,6 +23,7 @@ bio: Christopher is pursuing his Ph.D. in Texts & Technology, Digital Media at t
 interests:
 - Audiovisual Rhetoric
 - Digital Media
+- Digital Storytelling
 - Social Justice
 - Social Media
 - Visual Culture
