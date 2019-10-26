@@ -11,8 +11,8 @@ address:
   region:
   postcode:
   country:
-summary: "The documentary “How To Make It In Hollywood Before You Make It” was selected as a finalist to screen at this year’s “Hollywood Black Film Festival” (HBFF).  The festival will take place in Hollywood, California June 22 – 27th, 2004."
-abstract:
+summary:
+abstract: "The documentary “How To Make It In Hollywood Before You Make It” was selected as a finalist to screen at this year’s “Hollywood Black Film Festival” (HBFF).  The festival will take place in Hollywood, California June 22 – 27th, 2004."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

@@ -11,8 +11,8 @@ address:
   region:
   postcode:
   country:
-summary: "23RD PSALM: REDEMPTION was tapped as an Official Selection at the North Carolina Black Film Festival. The film will screen on Saturday, 05/16/2013 at 12:30 pm on the Main Stage at: Community Arts Center Historic Downtown Wilmington 120 South 2nd Street Wilmington, NC 28402 (910) 341-7830 The Black Arts Alliance will present the North Carolina Black Film Festival, March 14-17, 2013 in Wilmington, NC.  In its 12th year, the four day juried and invitational festival of independent motion pictures by African-American filmmakers will showcase features, shorts, animation, and documentary films."
-abstract:
+summary:
+abstract: "23RD PSALM: REDEMPTION was tapped as an Official Selection at the North Carolina Black Film Festival. The film will screen on Saturday, 05/16/2013 at 12:30 pm on the Main Stage at: Community Arts Center Historic Downtown Wilmington 120 South 2nd Street Wilmington, NC 28402 (910) 341-7830 The Black Arts Alliance will present the North Carolina Black Film Festival, March 14-17, 2013 in Wilmington, NC.  In its 12th year, the four day juried and invitational festival of independent motion pictures by African-American filmmakers will showcase features, shorts, animation, and documentary films."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

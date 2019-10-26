@@ -11,8 +11,8 @@ address:
   region:
   postcode:
   country:
-summary: "Full Sail University is excited to announce our second annual Full Sail Writing Conference! This event is open to all alumni, students, faculty and staff. Our conference focuses on all kinds of writing: from novels to screenwriting, social media writing to comics, and from short stories to games. If you need to write it, we want to talk about it."
-abstract:
+summary:
+abstract: "Full Sail University is excited to announce our second annual Full Sail Writing Conference! This event is open to all alumni, students, faculty and staff. Our conference focuses on all kinds of writing: from novels to screenwriting, social media writing to comics, and from short stories to games. If you need to write it, we want to talk about it."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

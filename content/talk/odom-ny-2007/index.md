@@ -11,7 +11,8 @@ address:
   region:
   postcode:
   country:
-summary: "Festival favorite, The 23rd Psalm, is slated to screen at the 15th Annual African Diaspora Film Festival in New York City and during the Reelblack Film Screening Series in Philadelphia.
+summary:
+abstract: "Festival favorite, The 23rd Psalm, is slated to screen at the 15th Annual African Diaspora Film Festival in New York City and during the Reelblack Film Screening Series in Philadelphia.
 
 The 15th Annual African Diaspora Film Festival screenings of The 23rd Psalm will take place on Saturday, December 1st, 10:00 pm and Monday, December 3rd, 6:30 pm at the Anthology Film Archives located at 32 Second Avenue, New York, NY 10003 (@ the corner of 2nd Street in Manhattan).
 
@@ -20,7 +21,6 @@ The Reelblack Film Screening Series screening of The 23rd Psalm will take place 
 Since its festival premiere, The 23rd Psalm’s festival wins worldwide include Best Film by a Black Filmmaker in Berlin and Best Picture, Best Lead Actor and Best Supporting Actress in San Diego.
 
 New York and Philadelphia marks The 23rd Psalm’s 9th and 10th festival screening worldwide. Other screenings have included Cannes, Berlin, Los Angeles, Beverly Hills, Hollywood, San Diego, D.C. and Memphis."
-abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

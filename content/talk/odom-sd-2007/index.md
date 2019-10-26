@@ -11,7 +11,8 @@ address:
   region:
   postcode:
   country:
-summary: "Arguably, the most buzzed about “truly independent” Black Film of 2007, The 23rd Psalm, lived up to it’s hype at its first public screening by winning three awards, including the San Diego Black Film Festival’s highest honor, at its freshmen entrée into the festival circuit:
+summary:
+abstract: "Arguably, the most buzzed about “truly independent” Black Film of 2007, The 23rd Psalm, lived up to it’s hype at its first public screening by winning three awards, including the San Diego Black Film Festival’s highest honor, at its freshmen entrée into the festival circuit:
 
 Winner, Best Film, Director Christopher C. Odom, The 23rd Psalm
 
@@ -20,7 +21,6 @@ Winner, Best Lead Actor, Markhum Stansbury, Jr., The 23rd Psalm
 Winner, Best Supporting Actor, Arnita Champion, The 23rd Psalm
 
 As the audience became engaged with the story, people began talking to the screen, “oh my God, she’s crazy”, “he’s a liar”. There were many teary eyes during the emotional scenes as well as deep guffaws during the humorous moments. One festival participant, Rick Bartlett of San Diego, even reported that The 23rd Psalm, “healed” his back problem while watching the movie."
-abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
