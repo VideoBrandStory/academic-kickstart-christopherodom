@@ -45,15 +45,6 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "Course Director"
-  company = "Full Sail University"
-  company_url = "http://www.fullsail.edu/degrees/online/creative-writing-mfa"
-  location = "Winter Park, FL"
-  date_start = "2011-10-06"
-  date_end = ""
-  description = ""
-
-[[experience]]
   title = "Live Event Camera Operator"
   company = "Universal Event Photography (UEP)"
   company_url = "https://www.uephd.com"

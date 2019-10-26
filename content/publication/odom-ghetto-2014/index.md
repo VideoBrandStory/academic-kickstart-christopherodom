@@ -8,5 +8,4 @@ abstract: "\"It is written that the first born son of a Ghetto King shall inheri
 featured: false
 publication: ""
 tags: ["Screenplays"]
-{{< vimeo 43638036 >}}
 ---
