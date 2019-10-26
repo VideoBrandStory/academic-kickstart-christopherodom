@@ -8,5 +8,5 @@ abstract: "An alcoholic police detective wrestles with his faith in order to sol
 featured: false
 publication: ""
 tags: ["Screenplays"]
+url_source: https://www.amazon.com/23rd-Psalm-Faith-Based-Screenplay/dp/1438202830/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
 ---
-

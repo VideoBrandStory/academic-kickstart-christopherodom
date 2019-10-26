@@ -8,4 +8,5 @@ abstract: "SHE'S GOTTA HAVE IT: A NARRATIVE CASE STUDY examines Spike Lee's 1986
 featured: true
 publication: ""
 tags: ["Books"]
+url_source: https://www.amazon.com/Shes-Gotta-Have-Narrative-Study/dp/1434896897/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
 ---

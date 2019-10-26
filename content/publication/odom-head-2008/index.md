@@ -8,5 +8,5 @@ abstract: "Inspired by a true story, HEAD OF THE CREEK embodies the essence of a
 featured: false
 publication: ""
 tags: ["Screenplays"]
+url_source: https://www.amazon.com/Head-Creek-Avant-Garde-Christopher-Odom/dp/1434898830/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
 ---
-

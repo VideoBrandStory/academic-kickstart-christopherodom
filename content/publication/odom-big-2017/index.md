@@ -8,5 +8,5 @@ abstract: "Christopher C. Odom, published author and award-winning filmmaker, br
 featured: false
 publication: ""
 tags: ["Books"]
+url_source: https://www.amazon.com/Big-Trip-Japan-Travel-Guide/dp/1973135906/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
 ---
-
