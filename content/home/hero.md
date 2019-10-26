@@ -45,6 +45,6 @@ image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 i
 
 Contact me now for:
 <br/>
-🖥️ Presentations<br/>
-🗣️ Talks<br/>
-👨‍👩‍👧‍👦 Panels<br/>
+🖥️  Presentations<br/>
+🗣️  Talks<br/>
+👨‍👩‍👧‍👦  Panels<br/>
