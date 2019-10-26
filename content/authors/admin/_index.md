@@ -36,12 +36,12 @@ education:
   - course: MFA, Film & Television
     institution: University of California, Los Angeles
     year: 1998 - 2001
+  - course: Professional Certificate, Screenwriting
+    institution: University of California, Los Angeles
+    year: 1995 - 1996
   - course: BA, Film & Video Production
     institution: Georgia State University
     year: 1993 - 1994
-  - course: Some College Courses Taken
-    institution: Morehouse College
-    year: 1988 - 1991
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
