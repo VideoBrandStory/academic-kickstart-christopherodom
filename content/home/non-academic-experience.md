@@ -96,7 +96,7 @@ date_format = "Jan 2006"
   location = "Los Angeles, CA"
   date_start = "2006-03-01"
   date_end = "2006-10-01"
-  description = """Wrote coverage reports for big-budget feature film scripts, independent of studio financing, assessing their quality and marketability for a commercial audience using Microsoft Office, Word"""
+  description = ""
 
 [[experience]]
   title = "Administrative Specialist"
