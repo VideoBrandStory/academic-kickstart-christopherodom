@@ -1,0 +1,12 @@
+---
+title: "The 10 Commandments of Chloe - Review"
+date: 2013-04-01
+publishDate: 2019-10-26T03:45:27.550441Z
+authors: ["Mireille Miskulin"]
+publication_types: ["0"]
+abstract: "The 10 Commandments of Chloe is a film by director Princeton Holt and actress Naama Kates. The duo co-wrote and co-produced the film, which they shot entirely on location in Nashville. Chloe (Naama Kates) arrives in Nashville pursuing a dream of being a professional musician. We know nothing of her past and it is a mystery that never fades. What we do learn is that Chloe lives by her own set of commandments. Chloe has no contacts, and very little in the way of resources. What she does possess is determination, persistence, and focus."
+featured: false
+publication: "*The Entertainment Corner*"
+url_pdf: "https://web.archive.org/web/20130428000831if_/http://player.vimeo.com/video/59919609?color=f0b000"
+---
+
