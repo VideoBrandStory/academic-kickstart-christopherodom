@@ -10,5 +10,5 @@ view: 1
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "chris-odom-director.JPG"
+  image: ""
 ---
