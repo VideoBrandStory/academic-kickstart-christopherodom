@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2019-10-26T01:37:21-04:00
 
 authors: []
-tags: []
+tags: [Campus Talks, Panelist]
 
 # Is this a featured talk? (true/false)
 featured: true
