@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 14  # Order that this section will appear.
 
-title = "Academic Kickstart"
+title = "Demo Reel"
 subtitle = ""
 
 [design]
@@ -46,6 +46,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+{{< youtube OFGlwaexGAc >}}
+
 
 Welcome to the **Academic Kickstart** template!
 
