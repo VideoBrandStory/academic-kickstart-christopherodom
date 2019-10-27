@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "About"
   url = "#about"
   weight = 10
 
@@ -14,7 +14,7 @@
   weight = 20
 
 [[main]]
-  name = "Curriculum Vitae"
+  name = "CV"
   url = "files/cv.pdf"
   weight = 30
 
@@ -29,9 +29,24 @@
   weight = 50
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Media Coverage"
+  url = "#media-coverage-critical-Reviews"
   weight = 60
+
+[[main]]
+  name = "Credits"
+  url = "#credits"
+  weight = 70
+
+[[main]]
+  name = "Blog"
+  url = "http://www.christopherodom.com/Blog"
+  weight = 80
+
+[[main]]
+  name = "Invite Me"
+  url = "#invite-me"
+  weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
