@@ -7,6 +7,6 @@ publication_types: ["5"]
 abstract: "Directed by Cornelius Booker III, Christopher C. Odom.  With Tatyana Ali, Clifton Powell, Leslie Mills, Leslie A. Jones. When a minister and his family are held hostage in his own home by an escaped convict, he must rely upon his faith to deliver his family from harm's way."
 featured: true
 publication: ""
-tags: ["Feature Film"]
+tags: ["Feature Film, Credit"]
 url_source: https://www.imdb.com/title/tt1893186/?ref_=nm_knf_i2
 ---
