@@ -1,6 +1,6 @@
 ---
 title: "23rd Psalm"
-date: 2013-05-21
+date: 2011-04-11
 publishDate: 2019-10-26T04:44:02.121849Z
 authors: ["Christopher C. Odom"]
 publication_types: ["5"]
