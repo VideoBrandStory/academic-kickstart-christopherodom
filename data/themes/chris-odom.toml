@@ -5,10 +5,10 @@ name = "chris-odom"
 light = true
 
 # Primary
-primary = "#10a16c"
+primary = "#eb574e"
 
 # Menu
-menu_primary = "#eb574e" # 500
+menu_primary = "10a16c" # 500
 menu_text = "#fff"
 menu_text_active = "#10a16c" # A100
 menu_title = "#fff"
