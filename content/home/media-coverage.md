@@ -69,6 +69,146 @@ date_format = "Jan 2006"
   description = "Critical Review"
 
 [[item]]
+  organization = "Mobarak, Jared. Jared Mobarak."
+  organization_url = ""
+  title = "The 10 Commandments of Chloe"
+  url = "http://jaredmobarak.com/2013/05/12/10-commandments-of-chloe/"
+  certificate_url = ""
+  date_start = "2013-05-12"
+  date_end = ""
+  description = "Critical Review"
+
+[[item]]
+  organization = "Propes, Richard. The Independent Critic."
+  organization_url = ""
+  title = "The 23rd Psalm"
+  url = "https://theindependentcritic.com/23rd_psalm"
+  certificate_url = ""
+  date_start = "2011-10-07"
+  date_end = ""
+  description = "Critical Review"
+
+[[item]]
+  organization = "Propes, Richard. The Independent Critic."
+  organization_url = ""
+  title = "'The 10 Commandments of Chloe' Demands Your Attention"
+  url = "https://theindependentcritic.com/the_10_commandments_of_chloe"
+  certificate_url = ""
+  date_start = "2013-05-01"
+  date_end = ""
+  description = "Critical Review"
+
+[[item]]
+  organization = "Rolfe, Donna. The Dove Foundation."
+  organization_url = ""
+  title = "The 23rd Psalm"
+  url = ""
+  certificate_url = ""
+  date_start = "2009-08-15"
+  date_end = ""
+  description = "Critical Review"
+
+[[item]]
+  organization = "Skutle, Donna. Sonic Cinema."
+  organization_url = ""
+  title = "The 10 Commandments of Chloe"
+  url = "http://sonic-cinema.com/movie/the-10-commandments-of-chloe/"
+  certificate_url = ""
+  date_start = "2013-04-01"
+  date_end = ""
+  description = "Critical Review"
+
+[[item]]
+  organization = "St. John, Christian. Christian Film Guide."
+  organization_url = ""
+  title = "23rd Psalm"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-05-13"
+  date_end = ""
+  description = "Critical Review"
+
+[[item]]
+  organization = "St. John, Christian. Christian Film Guide."
+  organization_url = ""
+  title = "23rd Psalm: Redemption"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-05-13"
+  date_end = ""
+  description = "Critical Review"
+
+[[item]]
+  organization = "St. John, Christian. Christian Film Guide."
+  organization_url = ""
+  title = "23rd Psalm: Redemption"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-05-13"
+  date_end = ""
+  description = "Critical Review"
+
+[[item]]
+  organization = "Staff. Films de France."
+  organization_url = ""
+  title = "23rd Psalm: Redemption"
+  url = ""
+  certificate_url = ""
+  date_start = "2011-04-01"
+  date_end = ""
+  description = "Critical Review"
+
+[[item]]
+  organization = "Staff. SoHo Journal."
+  organization_url = ""
+  title = "The Ten Commandments of Chloe"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-06-01"
+  date_end = ""
+  description = "Critical Review"
+
+[[item]]
+  organization = "Williams, Corey. Examiner."
+  organization_url = ""
+  title = "Naama Kates and Princeton Holt present The 10 Commandments of Chloe"
+  url = ""
+  certificate_url = ""
+  date_start = "2011-01-07"
+  date_end = ""
+  description = "Critical Review"
+
+[[item]]
+  organization = "Cassell, Amy. Full Sail University: The Hub."
+  organization_url = ""
+  title = "Full Sail Course Director's Film Sees a National Release"
+  url = "https://hub.fullsail.edu/articles/full-sail-course-directors-film-sees-a-national-release"
+  certificate_url = ""
+  date_start = "2013-05-28"
+  date_end = ""
+  description = "Critical Review"
+
+[[item]]
+  organization = "Gardner, April. NewEnglandFilm."
+  organization_url = ""
+  title = "Insight from the Inside"
+  url = "https://newenglandfilm.com/magazine/2004/08/insight-from-the-inside"
+  certificate_url = ""
+  date_start = "2004-08-01"
+  date_end = ""
+  description = "Critical Review"
+
+[[item]]
+  organization = "Holt, Princeton. Welcome to the Machine."
+  organization_url = ""
+  title = "5 Riskiest Choices Made on The 10 Commandments of Chloe"
+  url = "http://christopherodom.com/Blog/news/5-riskiest-choices-made-on-the-10-commandments-of-chloe/"
+  certificate_url = ""
+  date_start = "2013-07-10"
+  date_end = ""
+  description = "Critical Review"
+
+[[item]]
   organization = "Elliot, David. The San Diego Tribune."
   organization_url = ""
   title = "S.D. Black Film Festival growing nicely, thanks"
