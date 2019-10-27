@@ -4,7 +4,7 @@ date: 2013-05-21
 publishDate: 2019-10-26T04:44:02.121849Z
 authors: ["Christopher C. Odom, Cornelius Booker III"]
 publication_types: ["5"]
-summary: "When a minister and his family are held hostage in his own home by an escaped convict, he must rely upon his faith to deliver his family from harm's way."
+summary: "A minister and his family's faith is ultimately tested during a home invasion by three escaped convicts."
 featured: true
 publication: ""
 tags: ["Feature Film"]
