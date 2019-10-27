@@ -1,7 +1,7 @@
 ---
 title: "How to Make it in Hollywood Before You Make It"
 date: 2004-04-07
-publishDate: 2019-10-26T04:44:02.121849Z
+publishDate: 2019-10-24T04:44:02.121849Z
 authors: ["Christopher C. Odom"]
 publication_types: ["5"]
 summary: "A glimpse of ten relevant and very different emerging artists in Hollywood, all at different career phases."
