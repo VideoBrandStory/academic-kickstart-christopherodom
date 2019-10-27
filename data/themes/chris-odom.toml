@@ -5,7 +5,7 @@ name = "chris-odom"
 light = true
 
 # Primary
-primary = "#1c2123"
+primary = "#2e201d"
 
 # Menu
 menu_primary = "#1c2123" # 500
