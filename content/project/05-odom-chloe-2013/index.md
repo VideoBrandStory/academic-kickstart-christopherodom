@@ -1,5 +1,5 @@
 ---
-title: "10 Commandments of Chloe"
+title: "Chloe"
 date: 2014-04-09
 publishDate: 2019-10-22T04:44:02.121849Z
 authors: ["Christopher C. Odom"]
