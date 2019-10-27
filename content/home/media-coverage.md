@@ -186,7 +186,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2013-05-28"
   date_end = ""
-  description = "Critical Review"
+  description = "Online"
 
 [[item]]
   organization = "Gardner, April. NewEnglandFilm."
@@ -196,7 +196,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2004-08-01"
   date_end = ""
-  description = "Critical Review"
+  description = "Online"
 
 [[item]]
   organization = "Holt, Princeton. Welcome to the Machine."
@@ -206,7 +206,37 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2013-07-10"
   date_end = ""
-  description = "Critical Review"
+  description = "Online"
+
+[[item]]
+  organization = "Janesko, Christine. Full Sail University: Full Sail Stories."
+  organization_url = ""
+  title = "Year in Review 2013: Faculty Achievements"
+  url = "https://www.fullsail.edu/about/full-sail-stories/year-in-review-2013-faculty-achievements/"
+  certificate_url = ""
+  date_start = "2013-12-27"
+  date_end = ""
+  description = "Online"
+
+[[item]]
+  organization = "Martinez, Vanessa. Shadow and Act."
+  organization_url = ""
+  title = "Tatyana Ali and Clifton Powell to Star in Suspense Drama ‘23rd Psalm: Redemption’"
+  url = ""
+  certificate_url = ""
+  date_start = "2011-08-05"
+  date_end = ""
+  description = "Online"
+
+[[item]]
+  organization = "Staff. Film Courage."
+  organization_url = ""
+  title = "'How I Was Rejected by Over 35 Festivals and Lived to Tell It' by PrincetonHolt"
+  url = "http://filmcourage.com/2013/09/12/how-i-was-rejected-by-over-35-festivals-and-lived-to-tell-it-by-princetonholt/"
+  certificate_url = ""
+  date_start = "2013-09-12"
+  date_end = ""
+  description = "Online"
 
 [[item]]
   organization = "Elliot, David. The San Diego Tribune."
