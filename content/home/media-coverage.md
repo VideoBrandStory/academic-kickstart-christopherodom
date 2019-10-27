@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[item]]
+  organization = ""
+  organization_url = ""
+  title = ""
+  url = ""
+  certificate_url = ""
+  date_start = "2007-07-01"
+  date_end = ""
+  description = ""
+  tag = ""
+
 [[item]]
   organization = "The Kathleen Wells Show"
   organization_url = ""
@@ -42,10 +53,10 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "In the Can with Kip, LA Talk Radio"
-  organization_url = "https://www.datacamp.com"
+  organization_url = ""
   title = "Christopher C. Odom Interview"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
+  url = "http://odom-booker.com/psalm23movie/THE_23RD_PSALM_-_a_film_by_Christopher_C._Odom_-_NOW_ON_DVD%21_-_Press_-_In_The_Can_files/PSALM%2023%20-%20In%20The%20Can%20Interview%20v2.mov"
+  certificate_url = ""
   date_start = "2007-03-26"
   date_end = ""
   description = ""
