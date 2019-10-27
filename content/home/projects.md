@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Credits"
-subtitle = "Selected"
+subtitle = "Selected IMDB"
 
 [content]
   # Page type to display. E.g. project.
