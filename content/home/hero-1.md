@@ -25,7 +25,7 @@ hero_media = ""
 
   # Background image.
 #image = "chris-odom-hero-1.jpg"  # Name of image in `static/img/`.
-  {{< img src="/static/img/chris-odom-hero-1" type="jpg" alt="" >}}
+  {{< img src="chris-odom-hero-1" type="jpg" >}}
   image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
