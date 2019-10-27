@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Credits"
-subtitle = "Selected"
+title = "Media Coverage"
+subtitle = "Critical Reviews, Online, Print, Radio"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
