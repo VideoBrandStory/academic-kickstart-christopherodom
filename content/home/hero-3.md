@@ -44,7 +44,7 @@ image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 i
 Digital Storyteller, Social Media & Visual Culture Researcher
 
 **Invite Me** now for:
-<br><br/>
+<br/>
 💻 Presentations<br/>
 🗣️ Talks<br/>
 👨‍👩‍👧‍👦 Panels<br/>
