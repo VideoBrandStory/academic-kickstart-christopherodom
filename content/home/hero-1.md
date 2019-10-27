@@ -24,8 +24,8 @@ hero_media = ""
   gradient_end = ""
 
   # Background image.
-#image = "chris-odom-hero-1.jpg"  # Name of image in `static/img/`.
-  {{< img src="/static/img/chris-odom-hero-1" type="jpg" alt="" caption="" >}}
+  {{< img src="/static/img/" type="jpg" alt="" caption="" >}}
+  image = "chris-odom-hero-1.jpg"  # Name of image in `static/img/`.
   image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
