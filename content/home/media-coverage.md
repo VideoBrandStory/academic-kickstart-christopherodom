@@ -20,9 +20,9 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "The Kathleen Wells Show"
-  organization_url = "http://podcasts.kcaastreaming.com/wells/20130612.html"
+  organization_url = ""
   title = "Christopher C. Odom Interview"
-  url = ""
+  url = "http://podcasts.kcaastreaming.com/wells/20130612.html"
   certificate_url = ""
   date_start = "2013-06-12"
   date_end = ""
@@ -30,14 +30,15 @@ date_format = "Jan 2006"
   tag = "radio"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
+  organization = "For Heaven's Sake, XM Satellite Radio"
+  organization_url = ""
+  title = "Christopher C. Odom Interview"
   url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  certificate_url = ""
+  date_start = "2007-07-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = ""
+  tag = "radio"
 
 [[item]]
   organization = "DataCamp"
