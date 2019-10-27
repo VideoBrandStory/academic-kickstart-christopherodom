@@ -45,6 +45,6 @@ Digital Storyteller, Social Media & Visual Culture Researcher
 
 Contact me now for:
 <br/>
-* Presentations<br/>
-* Talks<br/>
-* Panels<br/>
+💻 Presentations<br/>
+🗣️ Talks<br/>
+👨‍👩‍👧‍👦 Panels<br/>
