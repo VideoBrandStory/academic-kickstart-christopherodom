@@ -3,7 +3,7 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear.
+weight = 225  # Order that this section will appear.
 
 title = "**Christopher C. Odom**"
 
@@ -24,7 +24,7 @@ hero_media = ""
   gradient_end = ""
 
   # Background image.
-  image = "chris-odom-hero-1.jpg"  # Name of image in `static/img/`.
+  image = "chris-odom-hero-2.jpg"  # Name of image in `static/img/`.
 image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -45,6 +45,6 @@ Digital Storyteller, Social Media & Visual Culture Researcher
 
 Contact me now for:
 <br/>
-💻 Presentations<br/>
-🗣️ Talks<br/>
-👨‍👩‍👧‍👦 Panels<br/>
+* Presentations<br/>
+* Talks<br/>
+* Panels<br/>
