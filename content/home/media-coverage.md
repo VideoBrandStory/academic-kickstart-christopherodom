@@ -19,17 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = ""
-  organization_url = ""
-  title = ""
-  url = ""
-  certificate_url = ""
-  date_start = ""
-  date_end = ""
-  description = ""
-  tag = ""
-
-[[item]]
   organization = "The Kathleen Wells Show"
   organization_url = ""
   title = "Christopher C. Odom Interview"
