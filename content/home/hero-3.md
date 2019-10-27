@@ -35,7 +35,7 @@ image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 i
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://christopherodom.netlify.com/#contact"
-  label = "Contact"
+  label = "Invite Me"
   icon_pack = "fas"
   icon = "envelope"
 
