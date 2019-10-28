@@ -8,7 +8,7 @@ weight = 1  # Order that this section will appear.
 title = "**Christopher C. Odom**"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = ""
+hero_media = "chris-odom-hero-1.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
