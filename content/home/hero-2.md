@@ -34,7 +34,7 @@ hero_media = "chris-odom-hero-2.png"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://christopherodom.netlify.com/#contact"
+  url = "https://christopherodom.netlify.com/#invite-me"
   label = "Invite Me"
   icon_pack = "fas"
   icon = "envelope"
