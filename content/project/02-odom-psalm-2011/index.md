@@ -1,7 +1,7 @@
 ---
 title: "23rd Psalm"
 date: 2011-04-11
-publishDate: 2019-10-25T04:44:02.121849Z
+lastmod: 2019-10-25
 authors: ["Christopher C. Odom"]
 publication_types: ["5"]
 summary: "An alcoholic police detective must overcome his drinking to solve a mysterious murder of a prostitute."
