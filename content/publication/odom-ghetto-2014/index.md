@@ -8,5 +8,6 @@ abstract: "\"It is written that the first born son of a Ghetto King shall inheri
 featured: false
 publication: ""
 tags: ["Screenplays"]
+categories: ["Publication", "Creative"]
 url_source: https://www.amazon.com/Ghetto-Knights-Urban-Star-Spoof/dp/1434897095/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
 ---

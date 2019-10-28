@@ -8,5 +8,6 @@ abstract: "In 1970, there was no internet, cell phone, VCR, DVD player, or cable
 featured: false
 publication: ""
 tags: ["Books"]
+categories: ["Publication", "Creative"]
 url_source: https://www.amazon.com/How-Make-Hollywood-Before-You/dp/1434895343/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
 ---

@@ -8,5 +8,6 @@ abstract: "Set in Harlem's 1940's Savoy Ballroom, Alex Washington is a gifted Li
 featured: false
 publication: ""
 tags: ["Screenplays"]
+categories: ["Publication", "Creative"]
 url_source: https://www.amazon.com/Swingout-Lindy-Swing-Dancer-Screenplay/dp/1434896285/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
 ---

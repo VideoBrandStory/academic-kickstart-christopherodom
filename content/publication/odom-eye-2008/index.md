@@ -8,5 +8,6 @@ abstract: "Inspired by a true story, Eye on the Sparrow is an inspirational hear
 featured: false
 publication: ""
 tags: ["Screenplays"]
+categories: ["Publication", "Creative"]
 url_source: https://www.amazon.com/Eye-Sparrow-Faith-Based-Christopher-Odom/dp/1434898407/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
 ---

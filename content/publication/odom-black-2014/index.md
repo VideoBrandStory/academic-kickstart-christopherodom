@@ -8,5 +8,6 @@ abstract: "BLACK MAMBO is a sizzling hot, highly stylized, gritty crime story pl
 featured: false
 publication: ""
 tags: ["Screenplays"]
+categories: ["Publication", "Creative"]
 url_source: https://www.amazon.com/Black-Mambo-Crime-Short-Script/dp/1438201826/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
 ---

@@ -8,5 +8,6 @@ abstract: "Retirement planning can be a daunting task, but it is still something
 featured: false
 publication: ""
 tags: ["Books"]
+categories: ["Publication", "Book"]
 url_source: https://www.amazon.com/gp/product/B01HGLUA9G/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1
 ---

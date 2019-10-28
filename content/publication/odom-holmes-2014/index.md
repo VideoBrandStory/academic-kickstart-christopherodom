@@ -8,5 +8,6 @@ abstract: "Holmes arrests Mo for extortion and illegal arms dealing.  Mo pledges
 featured: false
 publication: ""
 tags: ["Screenplays"]
+categories: ["Publication", "Creative"]
 url_source: https://www.amazon.com/Holmes-Revenge-Urban-Super-Sleuth/dp/1434898040/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
 ---
