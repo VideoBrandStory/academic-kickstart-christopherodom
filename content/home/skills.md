@@ -18,18 +18,18 @@ subtitle = ""
   icon = "graduation-cap"
   icon_pack = "fas"
   name = "Research"
-  description = "100%"
+  description = ""
 
 [[feature]]
   icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Creative Content Strategy"
-  description = "100%"  
+  description = ""  
 
 [[feature]]
   icon = "video"
   icon_pack = "fas"
   name = "Video Production"
-  description = "100%"
+  description = ""
 
 +++
