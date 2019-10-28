@@ -8,7 +8,7 @@ weight = 1  # Order that this section will appear.
 title = "**Christopher C. Odom**"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "chris-odom-hero-1.jpg"
+hero_media = "chris-odom-hero-1.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -17,15 +17,15 @@ hero_media = "chris-odom-hero-1.jpg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = ""
+    color = "#232526"
 
   # Background gradient.
   gradient_start = ""
   gradient_end = ""
 
   # Background image.
-  image = "chris-odom-hero-1.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+#  image = ""  # Name of image in `static/img/`.
+#  image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -41,5 +41,10 @@ hero_media = "chris-odom-hero-1.jpg"
 
 +++
 
-Digital Storyteller, Social Media & Visual Culture Researcher.<br/> 
-**Invite Me** now for  💻 Presentations  🗣️Talks &  👨‍👩‍👧‍👦 Panels
+Digital Storyteller, Social Media & Visual Culture Researcher
+
+**Invite Me** now for:
+<br/>
+💻 Presentations<br/>
+🗣️ Talks<br/>
+👨‍👩‍👧‍👦 Panels<br/>
