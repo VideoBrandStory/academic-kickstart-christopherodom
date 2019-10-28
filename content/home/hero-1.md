@@ -43,8 +43,4 @@ hero_media = "chris-odom-hero-1.jpg"
 
 Digital Storyteller, Social Media & Visual Culture Researcher
 
-**Invite Me** now for:
-<br/>
-💻 Presentations<br/>
-🗣️ Talks<br/>
-👨‍👩‍👧‍👦 Panels<br/>
+**Invite Me** now for 💻 Presentations 🗣️Talks & 👨‍👩‍👧‍👦 Panels
