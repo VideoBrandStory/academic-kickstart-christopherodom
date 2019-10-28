@@ -65,7 +65,7 @@ social:
   link: https://youtube.com/christopherodom
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:christopher.odom@knights.ucf.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'https://christopherodom.netlify.com/#invite-me'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -82,4 +82,4 @@ user_groups:
 - Visitors
 ---
 
-Christopher C. Odom is a Ph.D. student in the Texts & Technology (T&T), Digital Media Doctoral Program at the University of Central Florida (UCF). His research and teaching interests include: Audiovisual Rhetoric, Digital Media, Digital Storytelling, Social Justice, Social Media, and Visual Culture. Christopher serves as a Course Director in the Creative Writing Master of Fine Arts Program at Full Sail University. He teaches graduate students screenwriting, video production, website production, and social media personal branding. A published author and graduate of the University of California, Los Angeles (UCLA) Master of Fine Arts (MFA) Program in Film, Television and Digital Media, Christopher C. Odom is a domestic and international award-winning filmmaker and voice over talent whose work has appeared in major cities worldwide including Cannes, Berlin, Tel Aviv, New York and Los Angeles. 
+Christopher C. Odom is a Ph.D. student in the Texts & Technology (T&T), Digital Media Doctoral Program at the University of Central Florida (UCF). His research and teaching interests include: Audiovisual Rhetoric, Digital Media, Digital Storytelling, Social Justice, Social Media, and Visual Culture. Christopher serves as a Course Director in the Creative Writing Master of Fine Arts Program at Full Sail University. He teaches graduate students screenwriting, video production, website production, and social media personal branding. A published author and graduate of the University of California, Los Angeles (UCLA) Master of Fine Arts (MFA) Program in Film, Television and Digital Media, Christopher C. Odom is a domestic and international award-winning filmmaker and voice over talent whose work has appeared in major cities worldwide including Cannes, Berlin, Tel Aviv, New York and Los Angeles.
