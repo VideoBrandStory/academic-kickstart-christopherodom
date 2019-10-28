@@ -23,8 +23,9 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2019-10-26T01:37:21-04:00
 
-authors: []
-tags: [Campus Talks, Panelist]
+authors: ["Christopher C. Odom"]
+tags: ["Campus Talks", "Panelist"]
+categories: ["Talks"]
 
 # Is this a featured talk? (true/false)
 featured: true

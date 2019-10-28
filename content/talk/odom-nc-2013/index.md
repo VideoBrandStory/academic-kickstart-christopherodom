@@ -23,8 +23,9 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: 2019-10-26T02:21:42-04:00
 
-authors: []
-tags: [Director Q&A, Feature Film, Screening]
+authors: ["Christopher C. Odom", Cornelius Booker III]
+tags: ["Director Q&A", "Feature Film", "Screening"]
+categories: ["Talks"]
 
 # Is this a featured talk? (true/false)
 featured: false
