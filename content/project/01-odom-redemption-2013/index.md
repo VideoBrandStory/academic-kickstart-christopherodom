@@ -8,5 +8,6 @@ summary: "A minister and his family's faith is ultimately tested during a home i
 featured: true
 publication: ""
 tags: ["Feature Film"]
+categories: ["Project"]
 url_source: https://www.imdb.com/title/tt1893186/?ref_=nm_knf_i2
 ---
