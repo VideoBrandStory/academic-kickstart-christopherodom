@@ -8,5 +8,6 @@ summary: "An alcoholic police detective must overcome his drinking to solve a my
 featured: true
 publication: ""
 tags: ["Feature Film"]
+categories: ["Project"]
 url_source: https://www.imdb.com/title/tt0834888/?ref_=nm_knf_i1
 ---
