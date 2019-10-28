@@ -7,5 +7,6 @@ publication_types: ["5"]
 summary: "Travel series that helps viewers plan an adventurous meaningful journey of a lifetime trip to Japan."
 featured: true
 tags: ["Web Series"]
+categories: ["Project"]
 url_source: https://www.imdb.com/title/tt7817480/?ref_=tt_mv_close
 ---
