@@ -1,5 +1,5 @@
 ---
-title: "How to Make it in Hollywood Before You..."
+title: "How to Make it in Hollywood Before You Make It"
 date: 2004-04-07
 lastmod: 2019-10-24
 authors: ["Christopher C. Odom"]

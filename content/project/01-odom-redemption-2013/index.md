@@ -4,7 +4,7 @@ date: 2013-05-21
 lastmod: 2019-10-26
 authors: ["Christopher C. Odom, Cornelius Booker III"]
 publication_types: ["5"]
-summary: "A minister and his family's faith is ultimately tested during a home invasion by three escaped convicts."
+summary: "A minister and his family's faith is ultimately tested during a home invasion."
 featured: true
 publication: ""
 tags: ["Feature Film"]
