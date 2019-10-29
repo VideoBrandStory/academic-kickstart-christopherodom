@@ -4,7 +4,7 @@ date: 2014-04-09
 lastmod: 2019-10-22
 authors: ["Christopher C. Odom"]
 publication_types: ["5"]
-summary: "A twenty-something singer-songwriter named Chloe moves to Nashville with one goal: to find success."
+summary: "A twenty-something singer-songwriter named Chloe moves to Nashville with one goal: to find success, no matter what."
 featured: true
 publication: ""
 tags: ["Feature Film"]
