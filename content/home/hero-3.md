@@ -41,7 +41,7 @@ hero_media = "chris-odom-hero-3.png"
 
 +++
 
-Digital Storyteller, Social Media & Visual Culture Researcher
+Award-Winning Filmmaker 🏆 Digital Storytelling, Social Media & Visual Culture Researcher📱
 
 **Invite Me** now for:
 <br/>
