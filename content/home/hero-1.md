@@ -17,7 +17,7 @@ hero_media = "chris-odom-hero-1.png"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-    color = "#232526"
+    color = "#1bca8a"
 
   # Background gradient.
   gradient_start = ""
