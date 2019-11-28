@@ -8,10 +8,10 @@ light = true
 primary = "#10a16c"
 
 # Menu
-menu_primary = "#c54b44" # 500
-menu_text = "#fff"
-menu_text_active = "#1bca8a" # A100
-menu_title = "#fff"
+menu_primary = "#000000" # 500
+menu_text = "#f9b530"
+menu_text_active = "#ffffff" # A100
+menu_title = "#ffffff"
 
 # Home sections
 home_section_odd = "rgb(255, 255, 255)"
