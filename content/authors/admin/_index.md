@@ -21,12 +21,10 @@ organizations:
 bio: Christopher is pursuing his Ph.D. in Texts & Technology, Digital Media at the University of Central Florida with research interests in Social Media Rhetoric for Social Justice.
 
 interests:
-- Audiovisual Rhetoric
-- Digital Media
-- Digital Storytelling
-- Social Justice
-- Social Media
-- Visual Culture
+- social media
+- digital media
+- digital humanities
+- visual narrative, rhetoric, and semiotics
 
 education:
   courses:
