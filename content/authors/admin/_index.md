@@ -24,7 +24,9 @@ interests:
 - social media
 - digital media
 - digital humanities
-- visual narrative, rhetoric, and semiotics
+- visual narrative
+- visual rhetoric
+- visual semiotics
 
 education:
   courses:
@@ -80,4 +82,4 @@ user_groups:
 - Visitors
 ---
 
-Christopher C. Odom is a Ph.D. student in the Texts & Technology (T&T), Digital Media Doctoral Program at the University of Central Florida (UCF). His research and teaching interests include: Audiovisual Rhetoric, Digital Media, Digital Storytelling, Social Justice, Social Media, and Visual Culture. Christopher serves as a Course Director in the Creative Writing Master of Fine Arts Program at Full Sail University. He teaches graduate students screenwriting, video production, website production, and social media personal branding. A published author and graduate of the University of California, Los Angeles (UCLA) Master of Fine Arts (MFA) Program in Film, Television and Digital Media, Christopher C. Odom is a domestic and international award-winning filmmaker and voice over talent whose work has appeared in major cities worldwide including Cannes, Berlin, Tel Aviv, New York and Los Angeles.
+Christopher C. Odom is a Ph.D. student in the Texts & Technology (T&T), Digital Media Doctoral Program at the University of Central Florida (UCF). His research and teaching interests include social media, digital media, digital humanities, and visual narrative, rhetoric, and semiotics. Christopher serves as a Course Director in the Creative Writing Master of Fine Arts Program at Full Sail University. He teaches graduate students screenwriting, video production, website production, and social media personal branding. A published author and graduate of the University of California, Los Angeles (UCLA) Master of Fine Arts (MFA) Program in Film, Television and Digital Media, Christopher C. Odom is a domestic and international award-winning filmmaker and voice over talent whose work has appeared in major cities worldwide including Cannes, Berlin, Tel Aviv, New York and Los Angeles.
