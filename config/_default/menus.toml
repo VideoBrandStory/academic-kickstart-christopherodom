@@ -39,6 +39,11 @@
   weight = 70
 
 [[main]]
+  name = "Blog"
+  url = "http://www.christopherodom.com"
+  weight = 80
+
+[[main]]
   name = "Invite Me"
   url = "#invite-me"
   weight = 90
