@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Christopher C. Odom
+name: Christopher C. Odom (He/Him/His♂️)
 
 # Username (this should match the folder name)
 authors:
@@ -18,17 +18,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Christopher is pursuing his Ph.D. in Texts & Technology, Digital Media at the University of Central Florida with research interests in social media visual rhetoric for social justice and social change.
+bio: Christopher is pursuing his Ph.D. in Texts & Technology, Digital Media at the University of Central Florida with a research area of focus at the intersection of visual and multimedia culture and rhetoric & digital activism.
 
 interests:
-- social media
-- social justice
-- social change
-- digital media
-- digital humanities
-- visual narrative
-- visual rhetoric
-- visual semiotics
+- counterpublics
+- critical communications
+- digital activism
+- social movements
+- visual and multimedia culture and rhetoric
 
 education:
   courses:
@@ -84,4 +81,4 @@ user_groups:
 - Visitors
 ---
 
-Christopher C. Odom is a Ph.D. student in the Texts & Technology (T&T), Digital Media Doctoral Program at the University of Central Florida (UCF). His research and teaching interests include social media, social justice, social change, digital media, digital humanities, and visual narrative, rhetoric, and semiotics. Christopher serves as a course director in the Creative Writing Master of Fine Arts Program at Full Sail University. He teaches graduate students screenwriting, video production, website production, and social media personal branding. A published author and graduate of the University of California, Los Angeles (UCLA) Master of Fine Arts (MFA) Program in Film, Television and Digital Media, Christopher C. Odom is a domestic and international award-winning filmmaker and voice over talent whose work has appeared in major cities worldwide including Cannes, Berlin, Tel Aviv, New York and Los Angeles.
+Christopher C. Odom is a Ph.D. student in the Texts & Technology (T&T), Digital Media Doctoral Program at the University of Central Florida (UCF) with a research area of focus at the intersection of visual and multimedia culture and rhetoric & digital activism. His research and teaching interests include counterpublics, critical communications, digital activism, social movements, and visual and multimedia culture and rhetoric. Christopher serves as a course director in the Creative Writing Master of Fine Arts Program at Full Sail University. He teaches graduate students screenwriting, video production, website production, and social media personal branding. A published author and graduate of the University of California, Los Angeles (UCLA) Master of Fine Arts (MFA) Program in Film, Television and Digital Media, Christopher C. Odom is a domestic and international award-winning filmmaker and voice over talent whose work has appeared in major cities worldwide including Cannes, Berlin, Tel Aviv, New York and Los Angeles.
