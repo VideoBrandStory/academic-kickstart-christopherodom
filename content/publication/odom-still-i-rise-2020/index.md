@@ -1,7 +1,7 @@
 ---
 title: "Still I Rise"
-date: 2021-05-26
-publishDate: 2021-05-26T22:28:30.293263Z
+date: 2020-05-26
+publishDate: 2020-05-26T22:28:30.293263Z
 authors: ["Christopher C. Odom"]
 publication_types: ["1"]
 abstract: ""
