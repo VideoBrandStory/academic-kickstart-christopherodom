@@ -59,6 +59,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
+- icon: github
+  icon_pack: fab
+  link: https://github.com/VideoBrandStory
 - icon: youtube
   icon_pack: fab
   link: https://youtube.com/christopherodom
