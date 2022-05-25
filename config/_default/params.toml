@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Christopher C. Odom, Ph. Student, Texts and Technology, Digital Media, University of Central Florida."
+description = "Christopher C. Odom, PhD Student, Texts and Technology, Digital Media, University of Central Florida."
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
