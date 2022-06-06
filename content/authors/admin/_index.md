@@ -49,13 +49,13 @@ education:
 social:
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/christopherodom/
+  link: https://linkedin.com/in/christopherodom
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/christopherodom
 - icon: facebook
   icon_pack: fab
-  link: https://www.facebook.com/christophercodom
+  link: https://facebook.com/christophercodom
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
