@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Chial, Mila. University of Central Florida, College of Graduate Studies."
+  organization_url = ""
+  title = "Graduate Student Profile: Christopher C. Odom"
+  url = "https://graduate.ucf.edu/profile/christopher-odom"
+  certificate_url = ""
+  date_start = "2022-02-10"
+  date_end = ""
+
+[[item]]
   organization = "Cassell, Amy. Full Sail University: The Hub."
   organization_url = ""
   title = "Full Sail Course Director's Film Sees a National Release"
