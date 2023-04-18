@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Christopher is pursuing his Ph.D. in Texts & Technology, Digital Media at the University of Central Florida with a research area of focus in the visual imagery of social movements that lies at the intersection of visual and multimedia culture and rhetoric & digital activism.
+bio: CChristopher C. Odom earned his PhD student in the Texts & Technology, Digital Media Doctoral Program at UCF with a research area of focus in the visual imagery of social movements.
 
 interests:
 - counterpublics
@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. Student, Texts & Technology, Digital Media
+  - course: PhD, Texts and Technology, Digital Media
     institution: University of Central Florida
     year: 2019 - 2023
   - course: MFA, Film & Television
