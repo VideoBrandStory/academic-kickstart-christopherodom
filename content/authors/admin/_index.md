@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: CChristopher C. Odom earned his PhD student in the Texts & Technology, Digital Media Doctoral Program at UCF with a research area of focus in the visual imagery of social movements.
+bio: Christopher C. Odom earned his PhD student in the Texts & Technology, Digital Media Doctoral Program at UCF with a research area of focus in the visual imagery of social movements.
 
 interests:
 - counterpublics
