@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Christopher C. Odom earned his PhD student in the Texts & Technology, Digital Media Doctoral Program at UCF with a research area of focus in the visual imagery of social movements.
+bio: Dr. Christopher C. Odom earned his PhD in the Texts and Technology, Digital Media from the University of Central Florida and his MFA in Film and Television from the University of Los Angeles, California. His research area of focus is the visual imagery of social movements.
 
 interests:
 - counterpublics
@@ -84,4 +84,15 @@ user_groups:
 - Visitors
 ---
 
-Christopher C. Odom earned his PhD student in the Texts & Technology, Digital Media Doctoral Program at UCF with a research area of focus in the visual imagery of social movements. His research and teaching interests include counterpublics, critical communications, digital activism, social movements, and visual and multimedia culture and rhetoric. Christopher serves as a course director in the Creative Writing Master of Fine Arts Program at Full Sail University. He teaches graduate students screenwriting, video production, website production, and social media personal branding. A published author and graduate of the University of California, Los Angeles (UCLA) Master of Fine Arts (MFA) Program in Film, Television and Digital Media, Christopher C. Odom is a domestic and international award-winning filmmaker and voice over talent whose work has appeared in major cities worldwide including Cannes, Berlin, Tel Aviv, New York and Los Angeles.
+Dr. Christopher C. Odom earned his PhD in Texts & Technology, Digital Media at the University of Central Florida; his MFA in Film and Television from the University of California, Los Angeles; and his BA in Film and Video Production from Georgia State University.
+
+Throughout Dr. Odom’s 30-year career in the entertainment industry, as a filmmaker, Dr. Odom has produced, directed, written, shot, and/or edited +500 short and longform creative projects. In addition, for over a decade as a Course Director at Full Sail University, Dr. Odom has supervised and developed an additional +500 student short scripts and films.
+
+A published author and domestic and international award-winning filmmaker and voiceover talent, Dr. Odom’s work has appeared in major cities worldwide, including Cannes, Berlin, Tel Aviv, New York, and Los Angeles. 
+
+A former story analyst for Creative Artists Agency and a member of the Writers Guild of America Independent Writer's Caucus, Dr. Odom’s directing, producing, writing, cinematography, editing, and on-camera credits include feature films with international distribution through Entertainment One, promos and trailers for the nationally televised ITVS-produced PBS series Independent Lens, and aviation news stories for Airborne-Unlimited on the Aero-News Network. 
+
+Dr. Odom recently finished his short documentary film “Justice for George Floyd: The Tipping Point?” about the visual imagery emerging on social media from the Justice for George Floyd Protests, as a social movement. He is currently in postproduction on the feature documentary version of the same film. 
+
+Learn more about Dr. Odom’s background on LinkedIn.
+
