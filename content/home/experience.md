@@ -18,9 +18,9 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Course Director"
-  company = "Creative Writing Master of Fine Arts, Full Sail University"
-  company_url = "https://www.fullsail.edu/degrees/creative-writing-master"
+  title = "Course Director (Equivalent of Tenured Full Professor)"
+  company = "Digital Cinematography Bachelor of Sciene, Full Sail University"
+  company_url = "https://www.fullsail.edu/degrees/degrees/digital-cinematography-bachelor"
   location = "Winter Park, FL"
   date_start = "2011-10-06"
   date_end = ""
