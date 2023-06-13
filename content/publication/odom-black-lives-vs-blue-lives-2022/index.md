@@ -8,7 +8,6 @@ abstract: "This social justice and social change interactivity presentation is a
 featured: true
 publication: ""
 tags: ["Interactive Experience"]
-categories: ["Publication", "Interactive Experience"]
 url_source: [https://storymaps.arcgis.com/stories/9011abf4e5d2412789656a4ac7c3408e]
 ---
 
