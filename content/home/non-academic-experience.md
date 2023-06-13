@@ -27,11 +27,11 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "Producer, Host, Writer, Editor"
-  company = "Big Trip To Japan"
+  title = "Producer Writer Editor Voiceover"
+  company = "Audio Video Web Productions"
   company_url = "http://bigtriptojapan.com"
   location = "Davenport, FL"
-  date_start = "2017-08-01"
+  date_start = "2011-10-01"
   date_end = ""
   description = ""
 
