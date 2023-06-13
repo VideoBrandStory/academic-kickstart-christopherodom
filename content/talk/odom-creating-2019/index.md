@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Creating Diverse Characters"
+title: "Drunken Odyssey Podcast: Episode 543 - Screenwriting Q&A Time (Full Sail Labs)"
 event: Full Sail Writing Conference
-event_url: https://alumni.fullsail.edu/events/full-sail-writing-conference-2019
+event_url: https://open.spotify.com/episode/5YwbyKUvLw8bVLtyeBVQ9E?si=GApufKTJSrqlYgRgz8_T3Q
 location: Winter Park, FL
 address:
   street:
@@ -12,16 +12,16 @@ address:
   postcode:
   country:
 summary:
-abstract: "Full Sail University is excited to announce our second annual Full Sail Writing Conference! This event is open to all alumni, students, faculty and staff. Our conference focuses on all kinds of writing: from novels to screenwriting, social media writing to comics, and from short stories to games. If you need to write it, we want to talk about it."
+abstract: "John King, host of the Drunken Odyseey Podcast, chairs a screenwriting panel Q&A with Creative Writing Master of Fine Arts faculty members Dr. Christopher C. Odom, MFA, PhD, Bethany Duvall, and Jared Silva."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-11-02T09:00:00-18:00
-date_end: 2019-11-02T18:00:00-00:00
+date: 2022-10-01T09:00:00-18:00
+date_end: 2022-10-01T18:00:00-00:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-10-26T01:37:21-04:00
+publishDate: 2022-10-01T01:37:21-04:00
 
 authors: ["Christopher C. Odom"]
 tags: ["Campus Talks", "Panelist"]
