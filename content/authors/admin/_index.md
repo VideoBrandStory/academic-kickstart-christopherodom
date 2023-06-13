@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Christopher C. Odom (He/Him/His♂️)
+name: Dr. Christopher C. Odom, MFA, PhD (He/Him/His♂️)
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD, Texts & Technology, Digital Media
+role: Course Director (Equivalent of Tunured Full Professor)
 
 # Organizations/Affiliations
 organizations:
-- name: University of Central Florida
+- name: Digital Cinematography BS Program, Full Sail University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
