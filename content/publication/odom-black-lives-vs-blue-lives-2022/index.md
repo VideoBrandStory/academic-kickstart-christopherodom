@@ -9,5 +9,5 @@ featured: true
 publication: ""
 tags: ["Interactive Experience"]
 categories: ["Publication", "Interactive Experience"]
-url_source: [https://christopherodom.com/dig6836/project3/blmInteractiveVisualArgument/]
+url_source: https://christopherodom.com/dig6836/project3/blmInteractiveVisualArgument/
 ---
