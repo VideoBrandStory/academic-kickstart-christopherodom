@@ -16,12 +16,12 @@ abstract: "John King, host of the Drunken Odyseey Podcast, chairs a screenwritin
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-10-01T09:00:00-18:00
-date_end: 2022-10-01T18:00:00-00:00
+date: 2022-09-24T09:00:00-18:00
+date_end: 2022-09-24T18:00:00-00:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2022-10-01T01:37:21-04:00
+publishDate: 2022-09-24T01:37:21-04:00
 
 authors: ["Christopher C. Odom"]
 tags: ["Campus Talks", "Panelist"]
