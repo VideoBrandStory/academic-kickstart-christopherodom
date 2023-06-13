@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Drunken Odyssey Podcast: Episode 543 - Screenwriting Q&A Time (Full Sail Labs)"
-event: Full Sail Writing Conference
+event: Full Sail Writing Conference - Podcast Recording
 event_url: https://open.spotify.com/episode/5YwbyKUvLw8bVLtyeBVQ9E?si=GApufKTJSrqlYgRgz8_T3Q
 location: Winter Park, FL
 address:
