@@ -9,5 +9,5 @@ featured: true
 publication: "University of Central Florida, Electronic Theses and Dissertations, 2020-. 1626"
 tags: ["Dissertation"]
 categories: ["Publication", "Thesis", "Dissertation"]
-url_source: [https://stars.library.ucf.edu/etd2020/1626]
+url_source: https://stars.library.ucf.edu/etd2020/1626/
 ---
