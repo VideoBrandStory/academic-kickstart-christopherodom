@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Dr. Christopher C. Odom, MFA, PhD (He/Him/His♂️)
+name: Dr. Christopher C. Odom, MFA, PhD (He/Him/His/♂️)
 
 # Username (this should match the folder name)
 authors:
