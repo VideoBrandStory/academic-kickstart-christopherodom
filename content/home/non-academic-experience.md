@@ -18,6 +18,14 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Chief Executive Officer = "Our Vision Caribbean and Latino Film Festival"
+  company_url = "https://our-vision.org"
+  location = "Los Angeles, CA"
+  date_start = "202022-06-01"
+  date_end = ""
+  description = ""
+
+[[experience]]
   title = "Vice President of Communications, Public Relations, and Brand Strategy"
   company = "EJO Ventures"
   company_url = "http://ejoventures.com"
