@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Chief Executive Officer and Podcast Co-Host"
   company  = "Our Vision Caribbean and Latino Film Festival"
-  company_url = "https://our-vision.org](https://caribbeanandlatinofilmpodcast.buzzsprout.com/"
+  company_url = "https://caribbeanandlatinofilmpodcast.buzzsprout.com"
   location = "Los Angeles, CA"
   date_start = "2022-06-01"
   date_end = ""
