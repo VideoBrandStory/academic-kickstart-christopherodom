@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company  = "Our Vision Caribbean and Latino Film Festival"
   company_url = "https://our-vision.org](https://caribbeanandlatinofilmpodcast.buzzsprout.com/"
   location = "Los Angeles, CA"
-  date_start = "202022-06-01"
+  date_start = "2022-06-01"
   date_end = ""
   description = ""
 
