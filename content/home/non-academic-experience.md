@@ -37,15 +37,6 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "Vice President of Communications, Public Relations, and Brand Strategy"
-  company = "EJO Ventures"
-  company_url = "http://ejoventures.com"
-  location = "Nashville, TN"
-  date_start = "2018-01-01"
-  date_end = ""
-  description = ""
-
-[[experience]]
   title = "Producer Writer Editor Voiceover"
   company = "Audio Video Web Productions"
   company_url = "http://bigtriptojapan.com"
