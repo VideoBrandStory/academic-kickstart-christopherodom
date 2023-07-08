@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Chief Executive Officer and Podcast Co-Host"
+  title = "Chief Executive Officer and Podcast Co-Hostt"
   company  = "Our Vision Caribbean and Latino Film Festival"
   company_url = "https://our-vision.org](https://caribbeanandlatinofilmpodcast.buzzsprout.com/"
   location = "Los Angeles, CA"
