@@ -1,6 +1,6 @@
 ---
 title: "Our Vision Caribbean and Latino Film Festival and Podcast"
-date: 2023-0624
+date: 2023-06-24
 publishDate: 2023-06-24T04:44:02.113578Z
 authors: ["Charles Alleyne and Dr. Christopher C. Odom, MFA, PhD"]
 publication_types: ["0"]
