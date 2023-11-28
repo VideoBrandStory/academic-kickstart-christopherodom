@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Justice for George Floyd: The Tipping Point?"
+  organization_url = ""
+  title = "Justice for George Floyd: The Tipping Point? ☮️ ✊🏾 Filmmaker, Dr. Christopher C. Odom, MFA, PhD On the Our Vision Caribbean and Latino Filmmaker Podcast 🎙️"
+  url = "https://justicefilm2024.com/justice-for-george-floyd-the-tipping-point-filmmaker-dr-christopher-c-odom-mfa-phd-on-the-our-vision-caribbean-and-latino-filmmaker-podcast/"
+  certificate_url = ""
+  date_start = "2023-10-25"
+  date_end = ""
+
+[[item]]
   organization = "Achlim, Yasmina. Full Sail University, Full Sail Stories."
   organization_url = ""
   title = "Faculty Spotlight: Christopher C. Odom (Digital Cinematography)"
