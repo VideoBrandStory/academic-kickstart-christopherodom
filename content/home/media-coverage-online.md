@@ -19,12 +19,39 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Achlim, Yasmina. Full Sail University, Full Sail Stories."
+  organization_url = ""
+  title = "Faculty Spotlight: Christopher C. Odom (Digital Cinematography)"
+  url = "https://www.fullsail.edu/about/full-sail-stories/faculty-spotlight-christopher-c-odom-digital-cinematography"
+  certificate_url = ""
+  date_start = "2023-04-25"
+  date_end = ""
+
+[[item]]
+  organization = "Chial, Mila. University of Central Florida, College of Graduate Studies."
+  organization_url = ""
+  title = "New UCF Graduate Award Recognizes Excellence in Graduate Students’ Research"
+  url = "https://mae.ucf.edu/new-ucf-graduate-award-recognizes-excellence-in-graduate-students-research/"
+  certificate_url = ""
+  date_start = "2023-04-10"
+  date_end = ""
+
+[[item]]
   organization = "Chial, Mila. University of Central Florida, College of Graduate Studies."
   organization_url = ""
   title = "Graduate Student Profile: Christopher C. Odom"
   url = "https://graduate.ucf.edu/profile/christopher-odom"
   certificate_url = ""
   date_start = "2022-02-10"
+  date_end = ""
+
+[[item]]
+  organization = "Gonzelez Kotala, Zenaid. University of Central Florida, College of Graduate Studies."
+  organization_url = ""
+  title = "Students Selected for UCF’s First Graduate Student Advisory Council"
+  url = "https://graduate.ucf.edu/profile/christopher-odom"
+  certificate_url = ""
+  date_start = "2021-11-09"
   date_end = ""
 
 [[item]]

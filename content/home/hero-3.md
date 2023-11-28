@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 225  # Order that this section will appear.
 
-title = "**Christopher C. Odom**"
+title = "**Dr. Christopher C. Odom, MFA, PhD**"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "chris-odom-hero-3.png"
@@ -41,7 +41,7 @@ hero_media = "chris-odom-hero-3.png"
 
 +++
 
-Award-Winning Filmmaker 🏆 Digital Storytelling, Social Media & Visual Culture Researcher📱
+Award-Winning Filmmaker 🏆 Digital Media Researcher 🎓 (DEI) Diversity, Equity, & Inclusion Activist ⚖️ Social Media Marketing 📱 Communication, Culture, & Advocacy 🗣️
 
 **Invite Me** now for:
 <br/>

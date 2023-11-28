@@ -17,9 +17,19 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "VP, Content Creation"
-  company = "EJO Ventures Technology Project Management - Network Systems Integration"
+  title = "Chief Executive Officer and Podcast Host"
+  company  = "Our Vision Caribbean and Latino Film Festival"
+  company_url = "https://our-vision.org"
+  location = "Los Angeles, CA"
+  date_start = "2022-06-01"
+  date_end = ""
+  description = ""
+
+[[experience]]
+  title = "Vice President of Communications, Public Relations, and Brand Strategy"
+  company = "EJO Ventures"
   company_url = "http://ejoventures.com"
   location = "Nashville, TN"
   date_start = "2018-01-01"
@@ -27,11 +37,11 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "Producer, Host, Writer, Editor"
-  company = "Big Trip To Japan"
+  title = "Producer Writer Editor Voiceover"
+  company = "Audio Video Web Productions"
   company_url = "http://bigtriptojapan.com"
   location = "Davenport, FL"
-  date_start = "2017-08-01"
+  date_start = "2011-10-01"
   date_end = ""
   description = ""
 
@@ -45,16 +55,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "Live Event Camera Operator"
-  company = "Universal Event Photography (UEP)"
-  company_url = "https://www.uephd.com"
-  location = "Winter Park, FL"
-  date_start = "2014-03-01"
-  date_end = "2018-06-01"
-  description = ""
-
-[[experience]]
-  title = "Feature Film Producer, Director, Writer"
+  title = "Producer, Director, Writer, Editor"
   company = "Odom-Booker Entertainment"
   company_url = "http://www.odom-booker.com/"
   location = "Orlando, FL"
@@ -63,75 +64,12 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "On-Air Promotions Producer, Director, Writer, Editor"
-  company = "Independent Television Service (ITVS)"
+  title = "Producer, Writer, Editor"
+  company = "ITVS"
   company_url = "http://www.itvs.org/"
   location = "San Francisco, CA"
   date_start = "2006-06-01"
   date_end = "2009-09-01"
-  description = ""
-
-[[experience]]
-  title = "Web Series Editor"
-  company = "LiveVideo"
-  company_url = "https://en.wikipedia.org/wiki/Brad_Greenspan"
-  location = "West Hollywood, CA"
-  date_start = "2006-11-01"
-  date_end = "2007-08-01"
-  description = ""
-
-[[experience]]
-  title = "Feature Film Story Analyst"
-  company = "Creative Artists Agency (CAA)"
-  company_url = "http://www.caa.com/"
-  location = "Los Angeles, CA"
-  date_start = "2006-03-01"
-  date_end = "2006-10-01"
-  description = ""
-
-[[experience]]
-  title = "Administrative Specialist"
-  company = "UCLA, School of Film, Theater & Television"
-  company_url = "http://www.tft.ucla.edu"
-  location = "West Hollywood, CA"
-  date_start = "2006-11-01"
-  date_end = "2007-08-01"
-  description = ""
-
-[[experience]]
-  title = "Feature Film Writer’s Assistant"
-  company = "Dan Gordon, INC"
-  company_url = "https://www.imdb.com/name/nm0330108/?ref_=nv_sr_1?ref_=nv_sr_1"
-  location = "Thousand Oaks, CA"
-  date_start = "2002-06-01"
-  date_end = "2003-08-01"
-  description = ""
-
-[[experience]]
-  title = "Program Coordinator, Tell It Theater"
-  company = "Watts Labor Community Action Committee (WLCAC)"
-  company_url = "http://www.wlcac.org/"
-  location = "Los Angeles, CA"
-  date_start = "2001-01-01"
-  date_end = "2001-09-01"
-  description = ""
-
-[[experience]]
-  title = "Various Entertainment Contract Positions"
-  company = "Aquent"
-  company_url = "http://aquent.com/"
-  location = "Los Angeles, CA"
-  date_start = "1997-11-01"
-  date_end = "2000-12-01"
-  description = ""
-
-[[experience]]
-  title = "Senior Clerk"
-  company = "The Walt Disney Company, Network TV Production"
-  company_url = "https://www.thewaltdisneycompany.com/"
-  location = "Burbank, CA"
-  date_start = "1996-12-01"
-  date_end = "1997-09-01"
   description = ""
 
 +++
