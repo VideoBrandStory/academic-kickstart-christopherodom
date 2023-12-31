@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Course Director (Equivalent of Tunured Full Professor)
+role: Course Director (Equivalent of Tenured Full Professor)
 
 # Organizations/Affiliations
 organizations:
