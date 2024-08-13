@@ -71,6 +71,9 @@ social:
 - icon: tiktok
   icon_pack: fab
   link: https://www.tiktok.com/@christophercodom
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/christopherodom/
 - icon: envelope
   icon_pack: fas
   link: 'https://christopherodom.netlify.com/#invite-me'  # For a direct email link, use "mailto:test@example.org".
