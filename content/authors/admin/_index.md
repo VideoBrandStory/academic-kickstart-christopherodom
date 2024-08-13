@@ -50,9 +50,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/christopherodom
-- icon: twitter
+- icon: imdb
   icon_pack: fab
-  link: https://twitter.com/christopherodom
+  link: https://www.imdb.com/name/nm1682917/
+- icon: x
+  icon_pack: fab
+  link: https://x.com/christopherodom
 - icon: facebook
   icon_pack: fab
   link: https://facebook.com/christophercodom
@@ -92,7 +95,7 @@ A published author and domestic and international award-winning filmmaker and vo
 
 A former story analyst for Creative Artists Agency and a member of the Writers Guild of America Independent Writer's Caucus, Dr. Odom’s directing, producing, writing, cinematography, editing, and on-camera credits include feature films with international distribution through Entertainment One, promos and trailers for the nationally televised ITVS-produced PBS series Independent Lens, and aviation news stories for Airborne-Unlimited on the Aero-News Network. 
 
-Dr. Odom recently finished his short documentary film “Justice for George Floyd: The Tipping Point?” about the visual imagery emerging on social media from the Justice for George Floyd Protests, as a social movement. He is currently in postproduction on the feature documentary version of the same film. 
+Dr. Odom recently finished his short documentary film “Justice for George Floyd: The Tipping Point?” about the visual imagery emerging on social media from the Justice for George Floyd Protests, as a social movement. 
 
 Learn more about Dr. Odom’s background on LinkedIn.
 
