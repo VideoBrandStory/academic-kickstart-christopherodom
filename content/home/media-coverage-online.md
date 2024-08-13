@@ -28,6 +28,15 @@ date_format = "Jan 2006"
   date_end = ""
 
 [[item]]
+  organization = "Justice for George Floyd: The Tipping Point?"
+  organization_url = ""
+  title = "Dr. Christopher C. Odom, MFA, PhD Video Interview on the Ronald Diltz II Podcast"
+  url = "https://youtu.be/CjK1VFbN_OA"
+  certificate_url = ""
+  date_start = "2023-09-07"
+  date_end = ""
+
+[[item]]
   organization = "Achlim, Yasmina. Full Sail University, Full Sail Stories."
   organization_url = ""
   title = "Faculty Spotlight: Christopher C. Odom (Digital Cinematography)"
