@@ -53,9 +53,9 @@ social:
 - icon: imdb
   icon_pack: fab
   link: https://www.imdb.com/name/nm1682917/
-- icon: x
+- icon: twitter
   icon_pack: fab
-  link: https://x.com/christopherodom
+  link: https://twitter.com/christopherodom
 - icon: facebook
   icon_pack: fab
   link: https://facebook.com/christophercodom
@@ -68,6 +68,9 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://youtube.com/christopherodom
+- icon: tiktok
+  icon_pack: fab
+  link: https://www.tiktok.com/@christophercodom
 - icon: envelope
   icon_pack: fas
   link: 'https://christopherodom.netlify.com/#invite-me'  # For a direct email link, use "mailto:test@example.org".
