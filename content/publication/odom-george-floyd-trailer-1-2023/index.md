@@ -1,5 +1,5 @@
 ---
-title: "Justice for George Floyd: The Tipping Point? - Documentary Trailer 1"
+title: "Justice for George Floyd: The Tipping Point? (Documentary Trailer)"
 date: 2023-05-06
 publishDate: 2023-05-06T05:44:02.113578Z
 authors: ["Christopher C. Odom"]
