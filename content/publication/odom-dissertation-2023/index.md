@@ -1,5 +1,5 @@
 ---
-title: "Justice for George Floyd: The Tipping Point?"
+title: "Justice for George Floyd: The Tipping Point? (Dissertation)"
 date: 2023-05-06
 publishDate: 2023-05-06T04:44:02.113578Z
 authors: ["Christopher C. Odom"]
