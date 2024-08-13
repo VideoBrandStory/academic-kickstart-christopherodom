@@ -68,6 +68,9 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://youtube.com/christopherodom
+- icon: vimeo
+  icon_pack: fab
+  link: https://vimeo.com/christopherodom
 - icon: tiktok
   icon_pack: fab
   link: https://www.tiktok.com/@christophercodom
