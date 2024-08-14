@@ -94,7 +94,7 @@ address = {street = "", city = "Palm Coast", region = "FL", postcode = "32164", 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "28.602418", longitude = "-81.200397"}
+coordinates = {latitude = "29.507807", longitude = "-81.220847"}
 
 # Directions for visitors to locate you.
 directions = ""
