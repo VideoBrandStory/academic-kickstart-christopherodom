@@ -85,12 +85,12 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "christopher.odom@knights.ucf.edu"
+email = "chris@christopherodom.com"
 phone = "(407) 701-5830"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "Orlando", region = "FL", postcode = "32816", country = "United States", country_code = "US"}
+address = {street = "", city = "Palm Coast", region = "FL", postcode = "32164", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
