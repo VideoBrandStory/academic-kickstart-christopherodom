@@ -100,11 +100,11 @@ Dr. Christopher C. Odom earned his PhD in Texts & Technology, Digital Media at t
 
 Throughout Dr. Odom’s 30-year career in the entertainment industry, as a filmmaker, Dr. Odom has produced, directed, written, shot, and/or edited +500 short and longform creative projects. In addition, for over a decade as a Course Director at Full Sail University, Dr. Odom has supervised and developed an additional +500 student short scripts and films.
 
-A published author and domestic and international award-winning filmmaker and voiceover talent, Dr. Odom’s work has appeared in major cities worldwide, including Cannes, Berlin, Tel Aviv, New York, and Los Angeles. 
+A published author and domestic and international award-winning filmmaker and voiceover talent, Dr. Odom’s work has appeared in major cities worldwide, including Cannes, Berlin, Toronto, Tel Aviv, Barcelona, Los Angeles, and New York. 
 
 A former story analyst for Creative Artists Agency and a member of the Writers Guild of America Independent Writer's Caucus, Dr. Odom’s directing, producing, writing, cinematography, editing, and on-camera credits include feature films with international distribution through Entertainment One, promos and trailers for the nationally televised ITVS-produced PBS series Independent Lens, and aviation news stories for Airborne-Unlimited on the Aero-News Network. 
 
-Dr. Odom recently finished his short documentary film “Justice for George Floyd: The Tipping Point?” about the visual imagery emerging on social media from the Justice for George Floyd Protests, as a social movement. 
+Dr. Odom recently finished his short documentary film “Justice for George Floyd: The Tipping Point?” about the visual imagery emerging on social media from the Justice for George Floyd Protests, as a social movement. The documentary has accumulated over +22 international and domestic film festival awards, honors, and screenings worldwide. 
 
 Learn more about Dr. Odom’s background on LinkedIn.
 
