@@ -104,7 +104,7 @@ A published author and domestic and international award-winning filmmaker and vo
 
 A former story analyst for Creative Artists Agency and a member of the Writers Guild of America Independent Writer's Caucus, Dr. Odom’s directing, producing, writing, cinematography, editing, and on-camera credits include feature films with international distribution through Entertainment One, promos and trailers for the nationally televised ITVS-produced PBS series Independent Lens, and aviation news stories for Airborne-Unlimited on the Aero-News Network. 
 
-Dr. Odom recently finished his short documentary film “Justice for George Floyd: The Tipping Point?” about the visual imagery emerging on social media from the Justice for George Floyd Protests, as a social movement. The documentary has accumulated 33 international and domestic film festival awards, honors, and screenings worldwide. 
+Dr. Odom recently finished his short documentary film “Justice for George Floyd: The Tipping Point?” about the visual imagery emerging on social media from the Justice for George Floyd Protests, as a social movement. The documentary has accumulated 37 international and domestic film festival awards, honors, and screenings worldwide. 
 
 Learn more about Dr. Odom’s background on LinkedIn.
 
