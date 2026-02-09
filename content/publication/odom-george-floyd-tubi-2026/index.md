@@ -1,7 +1,7 @@
 ---
 title: "Justice for George Floyd: The Tipping Point? (Documentary Short Film)"
 date: 2026-02-0109
-publishDate: 2026-08-01T05:44:02.113578Z
+publishDate: 2026-02-01T05:44:02.113578Z
 authors: ["Dr. Christopher C. Odom, MFA, PhD"]
 publication_types: ["7"]
 abstract: In Minneapolis, before Alex Pretti and Renee Nicole Goode, just four blocks away from where Renee Nicole Good was murdered, there was George Floyd…
